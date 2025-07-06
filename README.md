@@ -96,3 +96,9 @@
 - Notification
 - Room 資料庫
 
+### 測試框架
+
+- **MockK** - 用於模擬測試依賴物件
+- **Turbine** - 用於測試 StateFlow 和 SharedFlow
+- **Kotlinx Coroutines Test** - 協程測試，用於測試 suspend 函數和協程邏輯
+
