@@ -1,8 +1,6 @@
-# Pomodoro Timer App
+# FocusFlow - Modern Android Architecture Sample
 
-一個簡易的番茄鐘應用程式。
-
-*此為簡易專案，主要目的是練習 Android 架構和 Jetpack Compose UI*
+*用於展示Android 架構和 Jetpack Compose UI的專案*
 
 ## 主要功能
 
